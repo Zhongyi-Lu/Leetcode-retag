@@ -5,6 +5,7 @@
 - 增加难度分类，适合从简单开始学习
 - 增加细分类别，例如单调栈，前缀树等，一道题目可能会有多个类别
 
+* 共计 29 个二级目录
 # 目录
 - [𐀴 链表](#𐀴-链表)
     - 单链表
@@ -109,9 +110,9 @@
 
 ###### 中等
 
-- [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
-- [103. 二叉树的锯齿形层序遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)
-- [107. 二叉树的层序遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/)
+- 【2】[102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
+- 【2】[103. 二叉树的锯齿形层序遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)
+- 【1】[107. 二叉树的层序遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/)
 
 #### 构造
 
@@ -121,7 +122,7 @@
 ###### 中等
 - [105. 从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
 - [106. 从中序与后序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
-- [114. 二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)
+- 【2】[114. 二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)
 - [889. 根据前序和后序遍历构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)
 - [1008. 前序遍历构造二叉搜索树](https://leetcode-cn.com/problems/construct-binary-search-tree-from-preorder-traversal/)
 
@@ -173,8 +174,8 @@
 - 【2】[96. 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/)
 - 【2】[95. 不同的二叉搜索树 II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/)
 - 【1】[173. 二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator/)
-- 【1】[230. 二叉搜索树中第 K 小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/)
-- 【1】[99. 恢复二叉搜索树](https://leetcode-cn.com/problems/recover-binary-search-tree/)
+- 【2】[230. 二叉搜索树中第 K 小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/)
+- 【2】[99. 恢复二叉搜索树](https://leetcode-cn.com/problems/recover-binary-search-tree/)
 
 #### 字典树
 
@@ -196,7 +197,7 @@
 
 ###### 中等
 
-- [1353. 最多可以参加的会议数目](https://leetcode-cn.com/problems/maximum-number-of-events-that-can-be-attended/)
+- 【2】[1353. 最多可以参加的会议数目](https://leetcode-cn.com/problems/maximum-number-of-events-that-can-be-attended/)
 - [307. 区域和检索 - 数组可修改](https://leetcode-cn.com/problems/range-sum-query-mutable/)
 
 ###### 困难
@@ -256,8 +257,8 @@
 
 ###### 中等
 
-- [739. 每日温度](https://leetcode-cn.com/problems/daily-temperatures/)
-- [402. 移掉 K 位数字](https://leetcode-cn.com/problems/remove-k-digits/)
+- 【2】[739. 每日温度](https://leetcode-cn.com/problems/daily-temperatures/)
+- 【2】[402. 移掉 K 位数字](https://leetcode-cn.com/problems/remove-k-digits/)
 - [316. 去除重复字母](https://leetcode-cn.com/problems/remove-duplicate-letters/)
 - [1124. 表现良好的最长时间段](https://leetcode-cn.com/problems/longest-well-performing-interval/)
 
@@ -280,9 +281,9 @@
 
 ###### 中等
 
-- [215. 数组中的第 K 个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)
-- [347. 前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)
-- [692. 前K个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words/)
+- 【2】[215. 数组中的第 K 个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)
+- 【2】[347. 前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)
+- 【2】[692. 前K个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words/)
 - [378. 有序矩阵中第 K 小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/)
 - [451. 根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency/)
 - [743. 网络延迟时间](https://leetcode-cn.com/problems/network-delay-time/)
@@ -337,19 +338,19 @@
 
 ###### 简单
 
-- [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/)
-- [191. 位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/)
-- [169. 多数元素](https://leetcode-cn.com/problems/majority-element/)
-- [190. 颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/)
-- [231. 2的幂](https://leetcode-cn.com/problems/power-of-two/)
-- [389. 找不同](https://leetcode-cn.com/problems/find-the-difference/)
-- [461. 汉明距离](https://leetcode-cn.com/problems/hamming-distance/)
-- [405. 数字转换为十六进制数](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/)
-- [268. 丢失的数字](https://leetcode-cn.com/problems/missing-number/)
+- 【3】[136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/)
+- 【2】[191. 位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/)
+- 【3】[169. 多数元素](https://leetcode-cn.com/problems/majority-element/)
+- 【3】[190. 颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/)
+- 【2】[231. 2的幂](https://leetcode-cn.com/problems/power-of-two/)
+- 【1】[389. 找不同](https://leetcode-cn.com/problems/find-the-difference/)
+- 【2】[461. 汉明距离](https://leetcode-cn.com/problems/hamming-distance/)
+- 【2】[405. 数字转换为十六进制数](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/)
+- 【2】[268. 丢失的数字](https://leetcode-cn.com/problems/missing-number/)
 
 ###### 中等
 
-- [78. 子集](https://leetcode-cn.com/problems/subsets/)
+- 【3】[78. 子集](https://leetcode-cn.com/problems/subsets/)
 - [338. 比特位计数](https://leetcode-cn.com/problems/counting-bits/)
 - [1318. 或运算的最小翻转次数](https://leetcode-cn.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/)
 - [89. 格雷编码](https://leetcode-cn.com/problems/gray-code/)
@@ -420,13 +421,13 @@
 
 ###### 中等
 
-- [337. 打家劫舍 III](https://leetcode-cn.com/problems/house-robber-iii/)
-- [322. 零钱兑换](https://leetcode-cn.com/problems/coin-change/)
-- [300. 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
-- [139. 单词拆分](https://leetcode-cn.com/problems/word-break/)
-- [152. 乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray/)
+- 【2】[337. 打家劫舍 III](https://leetcode-cn.com/problems/house-robber-iii/)
+- 【2】[322. 零钱兑换](https://leetcode-cn.com/problems/coin-change/)
+- 【2】[300. 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
+- 【2】[139. 单词拆分](https://leetcode-cn.com/problems/word-break/)
+- 【2】[152. 乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray/)
 - [338. 比特位计数](https://leetcode-cn.com/problems/counting-bits/)
-- [309. 最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
+- 【2】[309. 最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
 - [264. 丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/)
 - [279. 完全平方数](https://leetcode-cn.com/problems/perfect-squares/)
 
@@ -440,15 +441,15 @@
 
 ###### 中等
 
-- [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)
-- [1143. 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/)
-- [131. 分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/)
-- [62. 不同路径](https://leetcode-cn.com/problems/unique-paths/)
-- [64. 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)
-- [221. 最大正方形](https://leetcode-cn.com/problems/maximal-square/)
-- [416. 分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/)
-- [718. 最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/)
-- [494. 目标和](https://leetcode-cn.com/problems/target-sum/)
+- 【2】[5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)
+- 【2】[1143. 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/)
+- 【2】[131. 分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/)
+- 【2】[62. 不同路径](https://leetcode-cn.com/problems/unique-paths/)
+- 【2】[64. 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)
+- 【2】[221. 最大正方形](https://leetcode-cn.com/problems/maximal-square/)
+- 【2】[416. 分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/)
+- 【2】[718. 最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/)
+- 【2】[494. 目标和](https://leetcode-cn.com/problems/target-sum/)
 
 ###### 困难
 
@@ -465,15 +466,15 @@
 
 ###### 中等
 
-- [394. 字符串解码](https://leetcode-cn.com/problems/decode-string/)
-- [721. 账户合并](https://leetcode-cn.com/problems/accounts-merge/)
-- [547. 省份数量](https://leetcode-cn.com/problems/number-of-provinces/)
-- [494. 目标和](https://leetcode-cn.com/problems/target-sum/)
-- [695. 岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/)
-- [130. 被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/)
-- [1631. 最小体力消耗路径](https://leetcode-cn.com/problems/path-with-minimum-effort/) 
-- [207. 课程表](https://leetcode-cn.com/problems/course-schedule/)
-- [417. 太平洋大西洋水流问题](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/)
+- 【2】[394. 字符串解码](https://leetcode-cn.com/problems/decode-string/)
+- 【2】[721. 账户合并](https://leetcode-cn.com/problems/accounts-merge/)
+- 【2】[547. 省份数量](https://leetcode-cn.com/problems/number-of-provinces/)
+- 【2】[494. 目标和](https://leetcode-cn.com/problems/target-sum/)
+- 【2】[695. 岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/)
+- 【2】[130. 被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/)
+- 【1】[1631. 最小体力消耗路径](https://leetcode-cn.com/problems/path-with-minimum-effort/) 
+- 【3】[207. 课程表](https://leetcode-cn.com/problems/course-schedule/)
+- 【2】[417. 太平洋大西洋水流问题](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/)
 
 ###### 困难
 
